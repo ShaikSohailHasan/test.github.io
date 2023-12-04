@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lato: Lato;
+  --font-frank-ruhl-libre: "Frank Ruhl Libre";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-59xl: 78px;
+  --font-size-3xl: 22px;
+  --font-size-lg: 18px;
+  --font-size-49xl: 68px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-33xl: 52px;
+  --font-size-29xl: 48px;
+  --font-size-mini: 15px;
+  --font-size-23xl: 42px;
+
+  /* Colors */
+  --color-secondary-white: #fff;
+  --color-midnightblue-100: #002072;
+  --color-midnightblue-200: #0a085d;
+  --color-midnightblue-300: #090756;
+  --color-primary-dark-brown: #34251f;
+  --color-primary-lightbrown: #eeddcc;
+  --color-accent-red: #c20a0a;
+
+  /* Gaps */
+  --gap-26xl: 45px;
+
+  /* Paddings */
+  --padding-smi: 13px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+  --br-7xs: 6px;
+  --br-150xl: 169px;
+  --br-40xl: 59px;
+  --br-150xl-4: 169.4px;
+}
